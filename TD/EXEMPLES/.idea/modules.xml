@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EXEMPLES.iml" filepath="$PROJECT_DIR$/.idea/EXEMPLES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainBasique/mainBasique.iml" filepath="$PROJECT_DIR$/mainBasique/mainBasique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainListeView/mainListeView.iml" filepath="$PROJECT_DIR$/mainListeView/mainListeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainManipListeView/mainManipListeView.iml" filepath="$PROJECT_DIR$/mainManipListeView/mainManipListeView.iml" />
+    </modules>
+  </component>
+</project>

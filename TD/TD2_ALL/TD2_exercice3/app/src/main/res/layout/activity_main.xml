@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="412dp"
+        android:layout_height="733dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/fondu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="100px"
+            android:layout_marginLeft="400px"
+            android:text="@string/fondu"
+            android:visibility="visible"
+            />
+
+        <Button
+            android:id="@+id/retrecissement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/retrecissement"
+            android:layout_marginBottom="100px"
+            android:layout_marginLeft="300px"/>
+
+        <Button
+            android:id="@+id/sortie"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sortie"
+            android:layout_marginBottom="100px"
+            android:layout_marginLeft="400px"/>
+
+        <Button
+            android:id="@+id/fondu_agrandissement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fondu_agrandissement"
+            android:layout_marginBottom="100px"
+            android:layout_marginLeft="200px"/>
+
+        <Button
+            android:id="@+id/tv_off"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="380px"
+            android:layout_marginBottom="100px"
+            android:text="@string/tv_off" />
+
+        <Button
+            android:id="@+id/reapparition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/reapparition"
+            android:layout_marginBottom="100px"
+            android:layout_marginLeft="330px"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="209dp"
+                android:layout_height="16dp"
+                android:layout_marginBottom="100px"
+                android:layout_marginLeft="200px"
+                android:max="3000"
+                android:progress="1000"/>
+
+            <TextView
+
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

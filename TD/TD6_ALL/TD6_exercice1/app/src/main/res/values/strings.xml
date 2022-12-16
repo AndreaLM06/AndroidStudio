@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD6_exercice1</string>
+    <string name="prix">Prix</string>
+    <string name="nom">Nom</string>
+</resources>

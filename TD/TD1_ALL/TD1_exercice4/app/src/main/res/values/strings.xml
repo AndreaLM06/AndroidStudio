@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TD1_exercice4</string>
+    <string name="entr_votre_nom">Entré votre nom</string>
+    <string name="homme">Homme</string>
+    <string name="femme">Femme</string>
+    <string name="c">C</string>
+    <string name="cplusplus">C++</string>
+    <string name="java">Java</string>
+    <string name="valider">VALIDER</string>
+    <string name="textview">TextView</string>
+</resources>

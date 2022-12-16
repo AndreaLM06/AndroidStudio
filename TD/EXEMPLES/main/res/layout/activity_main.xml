@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/fromage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="10dp"
+        android:paddingStart="20dp">
+
+        <TextView
+            android:id="@+id/textFromage"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="fromage"
+            android:textSize="16sp" />
+
+        <SeekBar
+            android:id="@+id/seekBarFromage"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:max="100"
+            android:progress="50" />
+
+        <TextView
+            android:id="@+id/qteFromage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:gravity="end"
+            android:text="50g"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/olive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/fromage"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="10dp"
+        android:paddingStart="20dp">
+
+        <TextView
+            android:id="@+id/textOlive"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Olives"
+            android:textSize="16sp" />
+
+        <SeekBar
+            android:id="@+id/seekBarOlive"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:max="10"
+            android:progress="3" />
+
+        <TextView
+            android:id="@+id/qteOlive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:gravity="end"
+            android:text="3"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/champignon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/olive"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="10dp"
+        android:paddingStart="20dp">
+
+        <TextView
+            android:id="@+id/textChampignon"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="champignons"
+            android:textSize="16sp" />
+
+        <SeekBar
+            android:id="@+id/seekBarChampignon"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:max="200"
+            android:progress="80" />
+
+        <TextView
+            android:id="@+id/qteChampignon"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:gravity="end"
+            android:text="80g"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/pizzaListViewColor"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintTop_toBottomOf="@id/champignon"
+        app:layout_constraintBottom_toTopOf="@id/button"/>
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginBottom="5dp"
+        android:text="Commander" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

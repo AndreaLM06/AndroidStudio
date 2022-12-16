@@ -1,0 +1,20 @@
+andreaLM/example/td4_exercice1/BuildConfig.java
+ andreaLM.example.td4_exercice1.BuildConfig
+andreaLM/example/td4_exercice1/Ingredient.java
+ andreaLM.example.td4_exercice1.Ingredient
+andreaLM/example/td4_exercice1/PizzaAdapterListener.java
+ andreaLM.example.td4_exercice1.PizzaAdapterListener
+andreaLM/example/td4_exercice1/ListPizza.java
+ andreaLM.example.td4_exercice1.ListPizza
+andreaLM/example/td4_exercice1/PizzaAdapter.java
+ andreaLM.example.td4_exercice1.PizzaAdapter
+ andreaLM.example.td4_exercice1.PizzaAdapter$1
+ andreaLM.example.td4_exercice1.PizzaAdapter$PizzaAdapterListener
+andreaLM/example/td4_exercice1/Pizza.java
+ andreaLM.example.td4_exercice1.Pizza
+andreaLM/example/td4_exercice1/MainActivity.java
+ andreaLM.example.td4_exercice1.MainActivity
+ andreaLM.example.td4_exercice1.MainActivity$1
+ andreaLM.example.td4_exercice1.MainActivity$2
+ andreaLM.example.td4_exercice1.MainActivity$3
+ andreaLM.example.td4_exercice1.MainActivity$4

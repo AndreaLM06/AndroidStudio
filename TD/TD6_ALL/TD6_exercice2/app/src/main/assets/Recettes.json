@@ -1,0 +1,36 @@
+[
+  {
+    "nom": "Poulet au cidre",
+    "duree": 30,
+    "photo": "poulet1",
+     "ingredients": [
+      {
+        "nom": "poulet",
+        "prix": 12
+      },
+      {
+        "nom": "cidre",
+        "prix": 1
+      },
+      {
+        "nom": "oignons",
+        "prix": 1
+      }
+    ]
+  },
+  {
+    "nom": "Carbonara",
+    "duree": 20,
+    "photo": "carbo",
+    "ingredients": [
+      {
+        "nom": "lardons",
+        "prix": 3
+      },
+      {
+        "nom": "spaguetti",
+        "prix": 2
+      }
+    ]
+  }
+]

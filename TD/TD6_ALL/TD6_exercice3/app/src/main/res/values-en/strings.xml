@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PERSONNE</string>
+    <string name="txtValider">Validate</string>
+    <string name="txtNom">Name</string>
+    <string name="txtFemme">Woman</string>
+    <string name="txtHomme">Man</string>
+    <string name="txtJava">Java</string>
+    <string name="txtCpp">C++</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtC">C</string>
+    <string name="txt_toString1">\" you are \"</string>
+</resources>

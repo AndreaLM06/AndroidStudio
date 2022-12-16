@@ -1,0 +1,5 @@
+andreaLM/td1_exercice2/BuildConfig.java
+ andreaLM.td1_exercice2.BuildConfig
+andreaLM/td1_exercice2/MainActivity.java
+ andreaLM.td1_exercice2.MainActivity
+ andreaLM.td1_exercice2.MainActivity$1

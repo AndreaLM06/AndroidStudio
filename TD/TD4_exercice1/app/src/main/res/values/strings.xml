@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TD4_exercice1</string>
+    <string name="prix">Prix</string>
+    <string name="nom">Nom</string>
+    <string name="button">Button</string>
+    <string name="Fromage">Fromage</string>
+    <string name="textview">TextView</string>
+    <string name="Olives">Olives</string>
+    <string name="Champignons">Champignons</string>
+    <string name="Commander">Commander</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TD1_M414</string>
+    <string name="appuyer_ici">APPUYER ICI</string>
+    <string name="saisir_un_texte">Saisir un texte</string>
+</resources>

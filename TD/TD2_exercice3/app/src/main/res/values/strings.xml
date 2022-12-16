@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD2_exercice3</string>
+    <string name="fondu">FONDU</string>
+    <string name="retrecissement">RETRECISSEMENT</string>
+    <string name="sortie">SORTIE</string>
+    <string name="fondu_agrandissement">FONDU + AGRANDISSEMENT</string>
+    <string name="tv_off">TV OFF</string>
+    <string name="reapparition">REAPPARITION</string>
+</resources>

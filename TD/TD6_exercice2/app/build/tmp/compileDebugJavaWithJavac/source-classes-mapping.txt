@@ -1,0 +1,10 @@
+andrealm/td6_exercice2/BuildConfig.java
+ andrealm.td6_exercice2.BuildConfig
+andrealm/td6_exercice2/Ingredient.java
+ andrealm.td6_exercice2.Ingredient
+andrealm/td6_exercice2/Recette.java
+ andrealm.td6_exercice2.Recette
+andrealm/td6_exercice2/ListRecettes.java
+ andrealm.td6_exercice2.ListRecettes
+andrealm/td6_exercice2/MainActivity.java
+ andrealm.td6_exercice2.MainActivity

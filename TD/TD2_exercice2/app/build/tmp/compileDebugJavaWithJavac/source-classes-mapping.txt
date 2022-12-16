@@ -1,0 +1,4 @@
+andreaLM/td2_exercice2/MainActivity.java
+ andreaLM.td2_exercice2.MainActivity
+andreaLM/td2_exercice2/BuildConfig.java
+ andreaLM.td2_exercice2.BuildConfig

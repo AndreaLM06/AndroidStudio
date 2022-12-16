@@ -1,0 +1,21 @@
+andrealm/td6_exercice1/Application.java
+ andrealm.td6_exercice1.Application
+andrealm/td6_exercice1/BuildConfig.java
+ andrealm.td6_exercice1.BuildConfig
+andrealm/td6_exercice1/Ingredient.java
+ andrealm.td6_exercice1.Ingredient
+andrealm/td6_exercice1/PizzaAdapter.java
+ andrealm.td6_exercice1.PizzaAdapter
+ andrealm.td6_exercice1.PizzaAdapter$1
+andrealm/td6_exercice1/Pizza.java
+ andrealm.td6_exercice1.Pizza
+ andrealm.td6_exercice1.Pizza$1
+andrealm/td6_exercice1/PizzaAdapterListener.java
+ andrealm.td6_exercice1.PizzaAdapterListener
+andrealm/td6_exercice1/ListPizza.java
+ andrealm.td6_exercice1.ListPizza
+andrealm/td6_exercice1/MainActivity.java
+ andrealm.td6_exercice1.MainActivity
+ andrealm.td6_exercice1.MainActivity$1
+andrealm/td6_exercice1/PizzaActivity.java
+ andrealm.td6_exercice1.PizzaActivity
