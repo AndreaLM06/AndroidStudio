@@ -1,0 +1,12 @@
+andreaLM/td3_exercice2/Pizza.java
+ andreaLM.td3_exercice2.Pizza
+andreaLM/td3_exercice2/PizzaAdapter.java
+ andreaLM.td3_exercice2.PizzaAdapter
+ andreaLM.td3_exercice2.PizzaAdapter$1
+ andreaLM.td3_exercice2.PizzaAdapter$PizzaAdapterListener
+andreaLM/td3_exercice2/BuildConfig.java
+ andreaLM.td3_exercice2.BuildConfig
+andreaLM/td3_exercice2/MainActivity.java
+ andreaLM.td3_exercice2.MainActivity
+andreaLM/td3_exercice2/ListPizza.java
+ andreaLM.td3_exercice2.ListPizza

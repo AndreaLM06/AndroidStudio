@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TD3_exercice1</string>
+
+    <string name="perso">Choisir un personnage de StarWars</string>
+
+<string-array name="listePerso">
+    <item>amidala</item>
+    <item>blue</item>
+    <item>c3po</item>
+    <item>calrissian</item>
+    <item>chewbacca</item>
+    <item>daragon</item>
+    <item>fett</item>
+    <item>leia</item>
+    <item>maul</item>
+    <item>palpatine</item>
+    <item>rath</item>
+    <item>sabine</item>
+    <item>skywalker</item>
+    <item>sol</item>
+    <item>vador</item>
+    <item>yoda</item>
+    </string-array>
+</resources>
